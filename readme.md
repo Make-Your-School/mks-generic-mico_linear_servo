@@ -33,11 +33,11 @@ Entsprechende Projektbeispiele und Tutorials sind über alle gängigen Suchmasch
 <!-- infolist -->
 
 <!-- infolists -->
- 
+ 
 
 https://www.youtube.com/watch?v=wVxcmO2YuxA
 
- 
+ 
 
 ## Wichtige Links für die ersten Schritte:
 
