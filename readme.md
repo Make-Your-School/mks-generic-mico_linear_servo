@@ -3,7 +3,7 @@ title: "Linearservomotor"
 date: "2018-10-01T14:01:22.000Z"
 tags: 
   - "output"
-coverImage: "39_linearservomotor.jpg"
+coverImage: "39_linearservomotor.png"
 material_number: "39"
 material_type: "output"
 material_short_descr: "Micro-Servo S 15 linear Sol Expert S15JST 0.5 s"
