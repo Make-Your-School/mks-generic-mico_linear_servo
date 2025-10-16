@@ -30,8 +30,6 @@ Der Linearservomotor ist ein spezieller Servomotor, der für lineare Bewegungen 
 Entsprechende Projektbeispiele und Tutorials sind über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnungen zu finden. Hierbei ist die Eingabe des Stichworts „Linear Servomotor“ entscheidend.
 
 <!-- infolist -->
-
-<!-- infolists -->
  
 
 https://www.youtube.com/watch?v=wVxcmO2YuxA
