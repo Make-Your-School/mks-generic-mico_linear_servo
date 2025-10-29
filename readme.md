@@ -15,9 +15,6 @@ repo_part: "mico_linear_servo"
 product_url: "https://www.conrad.de/de/micro-servo-s-15-linear-sol-expert-s15jst-05-s-404224.html"
 clone_url: "https://github.com/Make-Your-School/mks-generic-mico_linear_servo.git"
 embedded_example_file: "examples/mico_linear_servo_minimal/mico_linear_servo_minimal.ino"
-title: 'Linearservomotor'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
